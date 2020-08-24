@@ -1,5 +1,5 @@
 # gasm-framework
-Gasm is a front-end boilerplate framework for creating component-based PHP based files. It comes ready configured with Popper.js, Jquery, Bootstrap and Font-Awesome 4.7.
+Gasm is a front-end boilerplate framework for creating component-based Hack based files. It was motivated by my coding philosophy that encourages engineers to constantly look for ways of improving the technology at hand. It comes ready configured with Popper.js, Jquery, Bootstrap and Font-Awesome 4.7.
 
 Hack is a programming language for the HipHop Virtual Machine (HHVM), created by Facebook as a dialect of PHP. The language implementation is open-source, licensed under the MIT License.
 
